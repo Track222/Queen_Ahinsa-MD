@@ -17,9 +17,9 @@ AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "𝙳𝙸𝙻𝙸𝚂𝙷𝙰☯
 // set the auto reply massage on status reply  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "KING-X-MD",
+BOT_NAME: process.env.BOT_NAME || "Queen_Ahinsa-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "KING-X-MD",
+STICKER_NAME: process.env.STICKER_NAME || "Queen_Ahinsa-MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react    
@@ -33,9 +33,9 @@ OWNER_NAME: process.env.OWNER_NAME || "Mʀ✰𝙳𝙸𝙻𝙸𝚂𝙷𝙰☯",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ 𝙳𝙸𝙻𝙸𝚂𝙷𝙰☯*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/hxC8v42x/7045.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/1gyyZ0M/temp-Img2-Url.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *KING-X-MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *Queen_Ahinsa-MD* ⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
