@@ -1,7 +1,7 @@
 {
-  "name": "KING-X-MD",
+  "name": "Queen_Ahinsa-MD",
   "description": "Jᴀᴠᴀsᴄʀɪᴘᴛ Wʜᴀᴛsᴀᴘᴘ Bᴏᴛ Mᴀᴅᴇ Bʏ Mʀ 𝙳𝙸𝙻𝙸𝚂𝙷𝙰☯",
-  "logo": "https://i.ibb.co/hxC8v42x/7045.jpg",
+  "logo": "https://i.ibb.co/1gyyZ0M/temp-Img2-Url.jpg",
   "keywords": ["Mʀ✰𝙳𝙸𝙻𝙸𝚂𝙷𝙰☯"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KING-X-MD"
+      "value": "Queen_Ahinsa-MD"
     }, 
       
     "PREFIX": {
@@ -73,7 +73,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "𝙺𝙸𝙽𝙶-𝚇-𝙼𝙳"
+      "value": "Queen_Ahinsa-MD"
    
      }, 
     
@@ -93,7 +93,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "LOVER-X-MD"
+      "value": "Queen_Ahinsa-MD"
 
       }, 
 
@@ -119,7 +119,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "𝙺𝙸𝙽𝙶-𝚇-𝙼𝙳"
+      "value": "Queen_Ahinsa-MD"
    
      }, 
     
@@ -139,7 +139,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KING-X-MD"
+      "value": "Queen_Ahinsa-MD"
 
       }, 
 
